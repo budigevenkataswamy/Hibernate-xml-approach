@@ -1,0 +1,1 @@
+# Hibernate-xml-approach
